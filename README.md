@@ -1,5 +1,7 @@
 # Numpy RL Engine
-
+<p align="center">
+<img src="cartpole-demo-episode-0.gif" alt="animated" />
+</p>
 A modular Deep Reinforcement Learning framework implemented entirely in NumPy. This project provides a transparent, low-level implementation of core deep learning concepts including backpropagation, optimization algorithms, and reinforcement learning agents, without reliance on automatic differentiation libraries like PyTorch or TensorFlow.
 
 ## Overview
